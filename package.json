@@ -1,0 +1,18 @@
+{
+  "name": "followme",
+  "version": "1.0.0",
+  "description": "follow friends ()\u001b[DGPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "express": "^4.14.1",
+    "geolocator": "^2.1.0",
+    "jquery": "^3.1.1",
+    "socket.io": "^1.7.3"
+  }
+}
